@@ -6,6 +6,7 @@ from markgen import markgen
 ########################################################################
 
 if __name__ == '__main__':
+
     if len(sys.argv) == 1:
         sys.stderr.write('USAGE: %s  [N=100]\n' % sys.argv[0])
         sys.stderr.write('Waiting for data from stdin...\n')
