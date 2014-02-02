@@ -1,0 +1,15 @@
+Simple Markov text generator
+============================
+
+Package description:
+    markgen.py:
+        main class
+    train.py:
+        training example
+    test.py:
+        testing example
+
+Requirements:
+    python>2.6
+    curl
+
